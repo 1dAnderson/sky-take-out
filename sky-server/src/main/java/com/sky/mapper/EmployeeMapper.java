@@ -31,7 +31,7 @@ public interface EmployeeMapper {
     void insert(Employee employee);
 
     /**
-     * 查询运功数据
+     * 查询员工数据
      * @param employeePageQueryDTO
      * @return
      */
