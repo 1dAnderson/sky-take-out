@@ -11,3 +11,10 @@ sky:
     access-key-id: LTAI5tPHa3obhyairNqSEB5g
     access-key-secret: 3SVZ9H45QKOifK1gkrLYsBhgewFsD1
     bucket-name: anderson-sky-take-out
+  redis:
+    host: localhost
+    port: 6379
+    database: 0
+  wechat:
+    appid: wx2c18b5ed7c5ea06e
+    secret: 1f5f317b5967bcdbae0fa4904c5689ce
